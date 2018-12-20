@@ -1,0 +1,48 @@
+.home-banner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 2px 3px black;
+    margin-top: 140px;
+    margin-bottom: 0px;
+}
+
+.home-banner::before {
+    background-image: url('../banner.jpeg');
+    background-size: cover;
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.hb {
+    background-color: rgba(0, 0, 0, 0.7);
+    margin-bottom: 100px;
+    border-radius: 50px;
+    position: relative;
+
+}
+
+.titrees {
+    color: dodgerblue;
+}
+
+.butt1 {
+    background-color: #F2B039;
+    border: 0px;
+}
+.butt2 {
+    background-color: #34ce57;
+    border: 0px;
+}
+
+.inputt {
+    margin-left: 275px;
+}
+

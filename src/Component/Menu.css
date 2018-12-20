@@ -1,0 +1,22 @@
+.header {
+    background-color: white;
+    height: 80px;
+    border: 8px solid cadetblue;
+    border-radius: 50px;
+    font-family: Helvetica, monospace;
+    font-size: 20px;
+    text-shadow: 1px 2px 2px #57BF7D;
+    color: white;
+    margin-top: 25px;
+}
+
+.image {
+    width: 85px;
+    margin-left: 50px;
+}
+
+.image2 {
+    width: 290px;
+    margin-left: 410px;
+    margin-top: 20px;
+}

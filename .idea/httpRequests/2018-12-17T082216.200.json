@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "piscine",
+    "amount": "15.00",
+    "createdAt": "2018-12-13T00:00:00+00:00",
+    "person": {
+      "id": "1",
+      "firstname": "julien",
+      "lastname": "lecrique"
+    },
+    "category": {
+      "id": "3",
+      "label": "activities",
+      "icon": "fa-bicycle"
+    }
+  },
+  {
+    "id": "2",
+    "title": "minigolf",
+    "amount": "20.00",
+    "createdAt": "2018-12-14T00:00:00+00:00",
+    "person": {
+      "id": "2",
+      "firstname": "julia",
+      "lastname": "forster"
+    },
+    "category": {
+      "id": "3",
+      "label": "activities",
+      "icon": "fa-bicycle"
+    }
+  },
+  {
+    "id": "3",
+    "title": "velo",
+    "amount": "10.00",
+    "createdAt": "2018-12-15T00:00:00+00:00",
+    "person": {
+      "id": "1",
+      "firstname": "julien",
+      "lastname": "lecrique"
+    },
+    "category": {
+      "id": "3",
+      "label": "activities",
+      "icon": "fa-bicycle"
+    }
+  },
+  {
+    "id": "4",
+    "title": "restaurant",
+    "amount": "50.00",
+    "createdAt": "2018-04-11T00:00:00+00:00",
+    "person": {
+      "id": "3",
+      "firstname": "antoine",
+      "lastname": "barrier"
+    },
+    "category": {
+      "id": "2",
+      "label": "food",
+      "icon": "fa-cutlery"
+    }
+  },
+  {
+    "id": "5",
+    "title": "hotel",
+    "amount": "100.00",
+    "createdAt": "2018-04-11T00:00:00+00:00",
+    "person": {
+      "id": "3",
+      "firstname": "antoine",
+      "lastname": "barrier"
+    },
+    "category": {
+      "id": "4",
+      "label": "hotel",
+      "icon": "fa-bed"
+    }
+  }
+]
